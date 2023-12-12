@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "alokadev.com",
+  "Id": "9a0181e2-9303-48ed-bd39-3ed72c8f72b9"
+}
